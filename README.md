@@ -11,8 +11,8 @@
 
 - 👨‍🏫 Name: Dev Prasad Sethi
 - 💻 I code in: HTML, CSS, JavaScript, Typescript
-- 🧰 I work with tools like: NextJs, React, Tailwind, Prisma, MongoDB, Redux, Scss, Axios, dirzzle,
-    Node, Styled-Components, and many more
+- 🧰 I work with tools like: NextJs, React, Tailwind, Prisma, MongoDB, Redux, Scss, Axios, Dirzzle ORM,
+    Node JS, Styled-Components, and many more
 
 Feel free to connect with me! Let's code and learn together. 🚀
 
