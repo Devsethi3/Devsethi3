@@ -5,74 +5,65 @@
 </p>
 
 <p align="center">
-  <a href="[https://devsethi.com](https://devsethi.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
+  <img src="https://c39b6ba002.imgdist.com/public/users/BeeFree/beefree-023dabaf-f906-465c-aaeb-36b492929559/banner.jpeg" alt="Dev Prasad Sethi Banner" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </p>
 
-## About Me
+<p align="center">
+  <a href="https://devsethi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
 
-- 💻 I specialize in frontend development with a focus on creating responsive and user-friendly web applications
-- 🚀 Always eager to learn and adapt to new technologies in the ever-evolving web development landscape
-- 🌟 Passionate about clean code, performance optimization, and creating seamless user experiences
+## 🚀 About Me
+
+- 💻 Specializing in frontend development with a focus on responsive and user-friendly web applications
+- 🌟 Passionate about clean code, performance optimization, and seamless user experiences
 - 🎨 Keen eye for design and proficient in translating UI/UX designs into functional code
+- 📚 Continuously learning and adapting to new technologies in the ever-evolving web development landscape
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-![Redux](https://img.shields.io/badge/-Redux-%23593d88?style=flat-square&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%234DB33D?style=flat-square&logo=mongodb&logoColor=ffffff)
-![Prisma](https://img.shields.io/badge/-Prisma-%2320232A?style=flat-square&logo=prisma&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-0066CC?style=flat-square&logo=drizzle&logoColor=white)
-
-### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
-![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=nextdotjs" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Redux-%23593d88?style=for-the-badge&logo=redux" alt="Redux">
+  <img src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-MongoDB-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel">
+  <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma">
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devsethi3&show_icons=true&theme=radical" alt="Devsethi3's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devsethi3&show_icons=true&theme=radical" alt="Devsethi3's GitHub Stats" style="width: 48%; max-width: 400px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devsethi3&theme=radical" alt="Devsethi3's GitHub Streak" style="width: 48%; max-width: 400px;">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devsethi3&theme=radical" alt="Devsethi3's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsethi3&layout=compact&theme=radical" alt="Devsethi3's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsethi3&layout=compact&theme=radical" alt="Devsethi3's Top Languages" style="width: 48%; max-width: 400px;">
 </p>
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting conversations and collaboration. Feel free to reach out!
+<p align="center">
+  <a href="mailto:work.devsethi@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://x.com/DevSethi45" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://devsethi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-- 💼 Connect with me my gmail: work.devsethi@gmail.com
-- 🐦 Follow me on [Twitter]([https://twitter.com/yourhandle](https://x.com/DevSethi45))
-- 🌐 Check out my [portfolio](https://devsethi.vercel.app)
-
-Let's code and learn together! 🚀
-
-Could you
+<p align="center">
+  Let's code and learn together! 🚀
+</p>
