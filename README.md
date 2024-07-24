@@ -24,6 +24,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react" alt="React">
@@ -32,11 +34,18 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-MongoDB-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Prisma-%2320232A?style=for-the-badge&logo=prisma&logoColor=ffffff" alt="Prisma">
+  <img src="https://img.shields.io/badge/-Drizzle_ORM-0066CC?style=for-the-badge&logo=drizzle&logoColor=white" alt="Drizzle ORM">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel">
   <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff" alt="Figma">
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff" alt="Git">
+  <img src="https://img.shields.io/badge/-VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth">
 </p>
 
 ## 📊 GitHub Stats
