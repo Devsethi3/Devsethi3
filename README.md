@@ -52,6 +52,11 @@ I'm an experienced Frontend Developer passionate about creating intuitive user i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsethi3&layout=compact&theme=radical" alt="Devsethi3's Top Languages" width="48%">
 </div>
 
+📈 Contribution History
+<p align="center" style="width:100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devsethi3&theme=dark">
+</p>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
