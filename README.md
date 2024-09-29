@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Dev Prasad Sethi
 
 <div align="center">
-  <img src="https://c39b6ba002.imgdist.com/public/users/BeeFree/beefree-023dabaf-f906-465c-aaeb-36b492929559/banner.jpeg" alt="Dev Prasad Sethi Banner" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Dev Prasad Sethi Banner" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev-sethi.vercel.app)
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.devsethi@gmail.com)
