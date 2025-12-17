@@ -1,98 +1,147 @@
-# 👋 Hi there, I'm Dev Prasad Sethi
+# Hey, I'm Dev Sethi 👋
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Dev Prasad Sethi Banner" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Welcome Banner" width="100%" style="max-width: 800px; border-radius: 12px;">
 
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev-sethi.vercel.app)
-  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.devsethi@gmail.com)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/DevSethi45)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-prasad-sethi-162789326)
+  <br/>
+  <br/>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-sethi.vercel.app)
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.devsethi@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1a1b27?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imsethidev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/dev-prasad-sethi-162789326)
 </div>
 
-## 🚀 About Me
+<br/>
 
-Hey there! I'm a Frontend Developer with a passion for crafting slick, user-friendly interfaces. I've got a knack for design and a bit of an obsession with writing clean, efficient code. My specialty? Building web apps that not only look great but also work seamlessly across all devices. I'm always tinkering with new technologies and love bringing ideas to life through code. Whether it's making websites more responsive or creating intuitive user experiences, I'm your go-to dev!
+## Who Am I?
 
-- 💻 Frontend development expert
-- 🌟 Advocate for clean code and performance optimization
-- 🎨 Skilled in translating UI/UX designs into functional code
-- 📚 Lifelong learner, always adapting to new web technologies
+I'm a full stack developer who genuinely enjoys building things for the web. There's something satisfying about taking an idea and turning it into something people can actually use — that's what keeps me going.
 
-## 🛠️ Tech Stack
+Most of my time goes into building web applications from the ground up. I handle everything from designing clean interfaces to setting up databases and APIs. I'm not the kind of developer who just throws code together and hopes it works. I care about the details — how the app feels, how fast it loads, whether the code will still make sense six months from now.
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=nextdotjs)
-![Redux](https://img.shields.io/badge/-Redux-%23593d88?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Prisma](https://img.shields.io/badge/-Prisma-%2320232A?style=for-the-badge&logo=prisma&logoColor=ffffff)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle_ORM-0066CC?style=for-the-badge&logo=drizzle&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=for-the-badge&logo=vercel&logoColor=000000)
-![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![NextAuth](https://img.shields.io/badge/-NextAuth-000000?style=for-the-badge&logo=next.js&logoColor=white)
+I started out focusing on frontend work, but over time I found myself wanting to understand the whole picture. Now I'm equally comfortable working on React components as I am writing database queries or setting up authentication flows. That said, I still have a soft spot for crafting really polished user interfaces.
 
-## 📊 GitHub Stats
+When I'm not coding, I'm usually learning something new or experimenting with tools I haven't tried before. The web keeps evolving, and honestly, that's part of what makes it fun.
+
+<br/>
+
+## What I Work With
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devsethi3&show_icons=true&theme=radical" alt="Devsethi3's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devsethi3&theme=radical" alt="Devsethi3's GitHub Streak" width="48%">
+
+### ⚡ Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7aa2f7)
+![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=7dcfff)
+![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=7dcfff)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-1a1b27?style=for-the-badge&logo=shadcnui&logoColor=c0caf5)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1a1b27?style=for-the-badge&logo=framer&logoColor=bb9af7)
+![Redux](https://img.shields.io/badge/Redux-1a1b27?style=for-the-badge&logo=redux&logoColor=bb9af7)
+
+### 📦 State & Data Fetching
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-1a1b27?style=for-the-badge&logo=reactquery&logoColor=f7768e)
+![tRPC](https://img.shields.io/badge/tRPC-1a1b27?style=for-the-badge&logo=trpc&logoColor=7dcfff)
+![oRPC](https://img.shields.io/badge/oRPC-1a1b27?style=for-the-badge&logoColor=9ece6a)
+![REST API](https://img.shields.io/badge/REST_API-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ece6a)
+
+### 🧩 Forms & Validation
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-1a1b27?style=for-the-badge&logo=reacthookform&logoColor=f7768e)
+![Zod](https://img.shields.io/badge/Zod-1a1b27?style=for-the-badge&logo=zod&logoColor=7aa2f7)
+
+### 🗄️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ece6a)
+![Supabase](https://img.shields.io/badge/Supabase-1a1b27?style=for-the-badge&logo=supabase&logoColor=9ece6a)
+![Prisma](https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=c0caf5)
+![Drizzle](https://img.shields.io/badge/Drizzle-1a1b27?style=for-the-badge&logo=drizzle&logoColor=9ece6a)
+
+### 🔐 Authentication & Security
+![Auth.js](https://img.shields.io/badge/Auth.js-1a1b27?style=for-the-badge&logo=auth0&logoColor=bb9af7)
+![Better Auth](https://img.shields.io/badge/Better_Auth-1a1b27?style=for-the-badge&logo=shield&logoColor=9ece6a)
+![Arcjet](https://img.shields.io/badge/Arcjet-1a1b27?style=for-the-badge&logo=shield&logoColor=7aa2f7)
+
+### 🤖 AI & LLMs
+![AI SDK](https://img.shields.io/badge/AI_SDK-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1a1b27?style=for-the-badge&logo=openai&logoColor=9ece6a)
+
+### 🧰 Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=e0af68)
+![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5)
+![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e)
+![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=bb9af7)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7)
+
 </div>
+
+<br/>
+
+## GitHub Stats
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsethi3&layout=compact&theme=radical" alt="Devsethi3's Top Languages" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devsethi3&theme=tokyonight" alt="Contribution Graph" width="100%">
 </div>
 
-📈 Contribution History
-<p align="center" style="width:100%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devsethi3&theme=dark">
-</p>
+<br/>
 
-## 🏆 GitHub Trophies
+## What I'm Up To These Days
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devsethi3&theme=onedark&column=4&margin-w=15&margin-h=15" alt="Devsethi3's GitHub Trophies" />
-</div>
+Right now, I'm diving deeper into a few things:
 
-## 🌱 I'm currently learning
+- **System design patterns** — figuring out how to build apps that scale without falling apart
+- **Performance optimization** — making things fast isn't just nice, it actually matters for users
+- **Better testing practices** — because I've been burned enough times by bugs in production
 
-- Advanced React patterns and performance optimization
-- Serverless architecture and cloud computing
-- Web accessibility best practices
+I'm also exploring serverless architectures and edge computing. The idea of running code closer to users is pretty compelling.
 
-## 👯 I'm looking to collaborate on
+<br/>
 
-- Open source projects related to frontend development
-- Innovative web applications that solve real-world problems
-- Mentoring and knowledge sharing initiatives
+## Let's Build Something
 
-## 💬 Ask me about
+I'm always interested in working on projects that matter. Whether it's:
 
-- Frontend development best practices
-- React and its ecosystem
-- UI/UX implementation techniques
-- Performance optimization for web applications
+- An open source tool that solves a real problem
+- A startup idea that needs a technical co-builder
+- Anything involving complex frontend challenges
 
-## 📫 How to reach me
+If you've got something interesting, I'd love to hear about it.
 
-Feel free to connect with me on [Twitter](https://x.com/DevSethi45) or send me an [email](mailto:work.devsethi@gmail.com). I'm always open to interesting conversations and collaboration opportunities!
+<br/>
+
+## Things I Can Help With
+
+If you're stuck on something, feel free to reach out. I've spent a lot of time with:
+
+- Building full stack apps with Next.js
+- Database design and optimization
+- Making UIs actually feel good to use
+- Authentication and security patterns
+- Getting React apps to perform well
+
+I don't claim to know everything, but I'm happy to share what I've learned.
+
+<br/>
+
+## Get In Touch
+
+The best way to reach me is probably [Twitter/X](https://x.com/imsethidev) — my DMs are open. For anything more detailed, shoot me an [email](mailto:work.devsethi@gmail.com).
+
+I try to respond to everyone, though it might take me a day or two if things are busy.
+
+<br/>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devsethi3&style=flat-square&color=blue" alt="Profile views" />
-</div>
-
-<div align="center">
-  <i>Let's code and learn together! 🚀</i>
+  
+  <img src="https://komarev.com/ghpvc/?username=Devsethi3&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Profile Views">
+  
+  <br/>
+  <br/>
+  
+  *Building things, one commit at a time.* 🔨 ✨
+  
 </div>
