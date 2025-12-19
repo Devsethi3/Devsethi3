@@ -1,7 +1,7 @@
 # Hey, I'm Dev Sethi 👋
 
 <div align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Welcome Banner" width="100%" style="max-width: 800px; border-radius: 12px;"> -->
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Welcome Banner" width="100%" style="max-width: 800px; border-radius: 12px;">
 
   <br/>
   <br/>
