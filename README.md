@@ -16,9 +16,9 @@
 
 ## Who Am I?
 
-I'm a full stack developer who genuinely enjoys building things for the web. There's something satisfying about taking an idea and turning it into something people can actually use — that's what keeps me going.
+I'm a full stack developer who genuinely enjoys building things for the web. There's something satisfying about taking an idea and turning it into something people can actually use - that's what keeps me going.
 
-Most of my time goes into building web applications from the ground up. I handle everything from designing clean interfaces to setting up databases and APIs. I'm not the kind of developer who just throws code together and hopes it works. I care about the details — how the app feels, how fast it loads, whether the code will still make sense six months from now.
+Most of my time goes into building web applications from the ground up. I handle everything from designing clean interfaces to setting up databases and APIs. I'm not the kind of developer who just throws code together and hopes it works. I care about the details - how the app feels, how fast it loads, whether the code will still make sense six months from now.
 
 I started out focusing on frontend work, but over time I found myself wanting to understand the whole picture. Now I'm equally comfortable working on React components as I am writing database queries or setting up authentication flows. That said, I still have a soft spot for crafting really polished user interfaces.
 
@@ -91,9 +91,9 @@ When I'm not coding, I'm usually learning something new or experimenting with to
 
 Right now, I'm diving deeper into a few things:
 
-- **System design patterns** — figuring out how to build apps that scale without falling apart
-- **Performance optimization** — making things fast isn't just nice, it actually matters for users
-- **Better testing practices** — because I've been burned enough times by bugs in production
+- **System design patterns** - figuring out how to build apps that scale without falling apart
+- **Performance optimization** - making things fast isn't just nice, it actually matters for users
+- **Better testing practices** - because I've been burned enough times by bugs in production
 
 I'm also exploring serverless architectures and edge computing. The idea of running code closer to users is pretty compelling.
 
@@ -127,7 +127,7 @@ I don't claim to know everything, but I'm happy to share what I've learned.
 
 ## Get In Touch
 
-The best way to reach me is probably [Twitter/X](https://x.com/imsethidev) — my DMs are open. For anything more detailed, shoot me an [email](mailto:work.devsethi@gmail.com).
+The best way to reach me is probably [Twitter/X](https://x.com/imsethidev) - my DMs are open. For anything more detailed, shoot me an [email](mailto:work.devsethi@gmail.com).
 
 I try to respond to everyone, though it might take me a day or two if things are busy.
 
