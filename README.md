@@ -141,7 +141,6 @@ I try to respond to everyone, though it might take me a day or two if things are
   
   <br/>
   <br/>
-  
-  *Building things, one commit at a time.* 🔨 ✨
+
   
 </div>
