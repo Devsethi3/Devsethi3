@@ -26,57 +26,6 @@ When I'm not coding, I'm usually learning something new or experimenting with to
 
 <br/>
 
-## What I Work With
-
-<div align="center">
-
-### ⚡ Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7aa2f7)
-![React](https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=7dcfff)
-![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=7dcfff)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-1a1b27?style=for-the-badge&logo=shadcnui&logoColor=c0caf5)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-1a1b27?style=for-the-badge&logo=framer&logoColor=bb9af7)
-![Redux](https://img.shields.io/badge/Redux-1a1b27?style=for-the-badge&logo=redux&logoColor=bb9af7)
-
-### 📦 State & Data Fetching
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-1a1b27?style=for-the-badge&logo=reactquery&logoColor=f7768e)
-![tRPC](https://img.shields.io/badge/tRPC-1a1b27?style=for-the-badge&logo=trpc&logoColor=7dcfff)
-![oRPC](https://img.shields.io/badge/oRPC-1a1b27?style=for-the-badge&logoColor=9ece6a)
-![REST API](https://img.shields.io/badge/REST_API-1a1b27?style=for-the-badge&logo=fastapi&logoColor=9ece6a)
-
-### 🧩 Forms & Validation
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-1a1b27?style=for-the-badge&logo=reacthookform&logoColor=f7768e)
-![Zod](https://img.shields.io/badge/Zod-1a1b27?style=for-the-badge&logo=zod&logoColor=7aa2f7)
-
-### 🗄️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ece6a)
-![Supabase](https://img.shields.io/badge/Supabase-1a1b27?style=for-the-badge&logo=supabase&logoColor=9ece6a)
-![Prisma](https://img.shields.io/badge/Prisma-1a1b27?style=for-the-badge&logo=prisma&logoColor=c0caf5)
-![Drizzle](https://img.shields.io/badge/Drizzle-1a1b27?style=for-the-badge&logo=drizzle&logoColor=9ece6a)
-
-### 🔐 Authentication & Security
-![Auth.js](https://img.shields.io/badge/Auth.js-1a1b27?style=for-the-badge&logo=auth0&logoColor=bb9af7)
-![Better Auth](https://img.shields.io/badge/Better_Auth-1a1b27?style=for-the-badge&logo=shield&logoColor=9ece6a)
-![Arcjet](https://img.shields.io/badge/Arcjet-1a1b27?style=for-the-badge&logo=shield&logoColor=7aa2f7)
-
-### 🤖 AI & LLMs
-![AI SDK](https://img.shields.io/badge/AI_SDK-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-1a1b27?style=for-the-badge&logo=openai&logoColor=9ece6a)
-
-### 🧰 Tools & Platforms
-![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=e0af68)
-![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5)
-![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e)
-![Figma](https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=bb9af7)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7)
-
-</div>
-
-<br/>
-
 ## GitHub Stats
 
 <br/>
