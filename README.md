@@ -6,7 +6,7 @@
   <br/>
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-sethi.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white)](https://devsethi.site)
 [![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.devsethi@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1a1b27?style=for-the-badge&logo=x&logoColor=white)](https://x.com/imsethidev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/dev-prasad-sethi-162789326)
